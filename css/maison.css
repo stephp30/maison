@@ -1,0 +1,37 @@
+.carousel{
+    height:410px;    
+}
+
+ .carousel-item {
+    width:400px !important;
+}
+
+#deroule1 h5, #deroule2 h5, #deroule3 h5,#deroule4 h5,#deroule5 h5{
+    display: none;
+    cursor:pointer;
+}
+
+#deroule1, #deroule2, #deroule3, #deroule4, #deroule5 {    
+    cursor:pointer;
+}
+
+.fleche{
+    position: relative;
+    left: 95%;
+    bottom:99%;
+}
+
+.map-responsive{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+    
+.map-responsive iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+    }
