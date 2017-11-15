@@ -29,25 +29,25 @@
 
       <div class="input-field col s6">
         <i class="material-icons prefix">account_circle</i>
-        <input id="icon_prefix" type="text" class="validate">
-        <label for="icon_prefix">Nom</label>
+        <input id="nom" type="text" class="validate" required>
+        <label for="nom">Nom</label>
       </div>
 
       <div class="input-field col s6">
         <i class="material-icons prefix">account_circle</i>
-        <input id="icon_prefix" type="text" class="validate">
+        <input id="icon_prefix" type="text" class="validate" required>
         <label for="icon_prefix">Prénom</label>
       </div>
 
       <div class="input-field col s6">
         <i class="material-icons prefix">phone</i>
-        <input id="icon_telephone" type="tel" class="validate">
+        <input id="icon_telephone" type="tel" class="validate" required>
         <label for="icon_telephone">Téléphone</label>
       </div>
 
       <div class="input-field col s6">
         <i class="material-icons prefix">mail</i>
-        <input id="icon_telephone" type="tel" class="validate">
+        <input id="icon_telephone" type="tel" class="validate" required>
         <label for="icon_telephone">E-mail</label>
       </div>    
 
@@ -59,7 +59,7 @@
 
        <div class="input-field col s6">
           <i class="material-icons prefix">hotel</i>
-          <input value="" id="nuitee" type="text" class="validate">
+          <input value="" id="nuitee" type="text" class="validate" required>
           <label >Nombre de nuitée</label>
        </div>
 

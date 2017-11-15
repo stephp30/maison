@@ -1,8 +1,9 @@
+<header>
 <div class="parallax-container">
 
           <h3 class="white-text text-darken-2">Bienvenue dans le Gard</h3>
           <h5 class="white-text text-darken-2">Venez profiter du soleil.</h5>
-      <div class="parallax"><img src="img/pontdugard.jpg"></div>
+      <div class="parallax" ><img src="img/pontdugard.jpg"></div>
     </div>
 <nav>
     <div class="nav-wrapper amber">
@@ -22,4 +23,4 @@
       </ul>
     </div>
   </nav>
- 
+  </header>

@@ -35,3 +35,9 @@
     width:100%;
     position:absolute;
     }
+
+    @media screen and (max-width: 767px) {
+        .parallax-container{
+                display: none;
+                }
+            }

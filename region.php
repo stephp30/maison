@@ -81,19 +81,19 @@
 <div class="row">
 <div class= "col s12 ">
 
-<div class="col s4" id="deroule4 ">
+<div class="col s12 m4" id="deroule4 ">
 <center><i class="material-icons large " >star</i></center>
 <i class="material-icons tiny fleche" >keyboard_arrow_down</i>     
 <h5>Véritable havre de paix situé à Nimes la Villa Romana est une maison d'architecte lumineuse et confortable. Vous apprécierez ses équipements de qualité, sa déco immaculée. Piscine, plancha sur terrasse de 100m² avec vue plongeante sur les Oliviers.</h5>
 </div>
 
 
-    <div class=" responsive-video  col s4 "  >
+    <div class=" responsive-video  col s12 m4 "  >
     <h1 class="amber-text text-darken-1"><center>Videos</center></h1>
     <center><iframe width="400" height="300" src="https://www.youtube.com/embed/skHeZKWf_vc" frameborder="0" gesture="media" allowfullscreen></iframe></center>
       </div>
 
-      <div class="col s4" id="deroule5">
+      <div class="col s12 m4" id="deroule5">
 <center><i class="material-icons large " >star</i></center>
 <i class="material-icons tiny fleche" >keyboard_arrow_down</i>     
 <h5>Véritable havre de paix situé à Nimes la Villa Romana est une maison d'architecte lumineuse et confortable. Vous apprécierez ses équipements de qualité, sa déco immaculée. Piscine, plancha sur terrasse de 100m² avec vue plongeante sur les Oliviers.</h5>

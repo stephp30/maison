@@ -112,4 +112,12 @@ $('#view').click(function () {
     document.getElementById('total').value = '0';
   }
 
+
+  $('#nom').onblur(function () {
+    if(document.getElementById('nom') != "NULL")
+    {
+    alert('rentrer un nom')
+    }
+  });
+
 });

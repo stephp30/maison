@@ -14,7 +14,7 @@
                 <ul>
                  
                   <li><a class="grey-text text-lighten-3" href="#!">Téléphone : 06 00 00 00 00</a></li>
-                  <li><a class="grey-text text-lighten-3" href="#!">Mail gffgfddfg@dsfgfsdg.fr</a></li>
+                  <li><a class="grey-text text-lighten-3" href="#!">Mail villa.romana@gmail.fr</a></li>
                  
                 </ul>
               
