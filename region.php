@@ -1,19 +1,4 @@
-<!DOCTYPE html >
-<html>
-<head>
-<!-- Entête de la page -->
-<meta charset="utf-8">
 
-<title>Maison</title>
- <!--Import Google Icon Font-->
- <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-      <!--Import materialize.css-->
-      <link type="text/css" rel="stylesheet" href="css/materialize.css"  media="screen,projection"/>
-      <link type="text/css" rel="stylesheet" href="css/maison.css"  media="screen,projection"/>
-
-      <!--Let browser know website is optimized for mobile-->
-      <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-</head>
 
 
 
@@ -81,7 +66,7 @@
 <div class="row">
 <div class= "col s12 ">
 
-<div class="col s12 m4" id="deroule4 ">
+<div class="col s12 m4" id="deroule4">
 <center><i class="material-icons large " >star</i></center>
 <i class="material-icons tiny fleche" >keyboard_arrow_down</i>     
 <h5>Véritable havre de paix situé à Nimes la Villa Romana est une maison d'architecte lumineuse et confortable. Vous apprécierez ses équipements de qualité, sa déco immaculée. Piscine, plancha sur terrasse de 100m² avec vue plongeante sur les Oliviers.</h5>

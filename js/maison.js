@@ -68,6 +68,22 @@ $(document).ready(function () {
   })
 
 
+
+  function faffichage()
+  { 
+    alert("Nom : " + document.getElementById('testNom').value) ; 
+    alert("prenom : " + document.getElementById('prenom').value) ;
+    alert("telephone : " + document.getElementById('telephone').value) ; 
+    alert("mail : " + document.getElementById('mail').value) ; 
+    
+  }
+  /* var nom = document.getElementById("testNom"); 
+  nom.addEventListener("click", testString);
+
+  function testString(){
+   alert('test');
+    } */
+
 });
 
 
@@ -113,11 +129,9 @@ $('#view').click(function () {
   }
 
 
-  $('#nom').onblur(function () {
-    if(document.getElementById('nom') != "NULL")
-    {
-    alert('rentrer un nom')
-    }
-  });
+ 
+
+  
+ 
 
 });
